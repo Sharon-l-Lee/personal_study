@@ -1,0 +1,44 @@
+ [
+      {
+        "seq" : "1",
+        "codeGroupId": "CT00000001",
+        "code": "C010",
+        "codeName": "코드테스트",
+        "codeNameEn": "CODETEST1"
+      },
+      {
+        "seq" : "2",
+        "codeGroupId": "CT00000004",
+        "code": "CA002",
+        "codeName": "처리중",
+        "codeNameEn": "CASE_PROGRESS"
+      },
+      {
+        "seq" : "3",
+        "codeGroupId": "CT00000004",
+        "code": "CA003",
+        "codeName": "처리완료",
+        "codeNameEn": "CASE_CLOSE"
+      },
+      {
+        "seq" : "4",
+        "codeGroupId": "CT00000004",
+        "code": "CA001",
+        "codeName": "오픈",
+        "codeNameEn": "CASE_OPEN"
+      },
+      {
+        "seq" : "5",
+        "codeGroupId": "CT00000005",
+        "code": "PA001",
+        "codeName": "태블로",
+        "codeNameEn": "TABLEAU"
+      },
+      {
+        "seq" : "6",
+        "codeGroupId": "CT00000005",
+        "code": "PA002",
+        "codeName": "서포트 포탈",
+        "codeNameEn": "SUPPORT PORTAL"
+      }
+    ]
